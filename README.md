@@ -1,5 +1,5 @@
-# WorkIndia-Password-Checker-SQL
-WorkIndia-Password-Checker using SQLite and Flask
+# Password-Checker-SQL
+Password-Checker using SQLite and Flask
 
 This is a Flask based Rest API Implementation which uses Flask and SQLite to build RestAPI.
 
